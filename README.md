@@ -50,7 +50,7 @@ Match | Upper team                  | Lower team                  | Winner
 1.03  | `hxd`                       |  `Heuristic`                | Upper
 1.04  | `dwayne_johnson`            |  `CedSam`                   | Upper
 1.05  | `HomemadeIntelligent`       |  `LUCKY_LALAS`              | Lower
-1.06  | `the_pink_coder             |  `Future_Yoda`              | Lower
+1.06  | `the_pink_coder`            |  `Future_Yoda`              | Lower
 1.07  | `group_of_AIs`              |  `gloaming`                 | Upper
 1.08  | `AlgorithmsAreFun`          |  `ass_to_grass`             | Lower
 1.09  | `nitromelon`                |  `Billy_Louise`             | Upper
