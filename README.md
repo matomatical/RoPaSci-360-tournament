@@ -4,7 +4,7 @@ COMP30024 Tournament 2021
 Welcome to the class tournament for Project Part B of COMP30024 Artificial
 Intelligence, semester 1, 2021.
 
-#### Tournament rules
+### Tournament rules
 
 This is a single-elimination tournament: In each round, players are randomly
 matched and the winner of each match proceeds to the next round (the other
@@ -19,7 +19,7 @@ When a player runs out of time, crashes, or submits an invalid move, the
 player forfeits the game. The match continues and the player may still win
 the match if they win the other two games without further errors.
 
-#### This repository
+### This repository
 
 This README documents the matchups and results of each round of the
 tournament, and the folders in this repository contain the game logs.
@@ -35,7 +35,7 @@ sample games for new logs (without changing the result). The game logs don't
 always record if the game ended due to a runtime error or timeout. If the
 log ends abruptly, this is probably the cause.
 
-#### Round 1
+### Round 1
 
 128 teams qualified for the tournament (a small number of additional teams
 unfortunately did not qualify due to some runtime and timing errors, however
@@ -44,7 +44,7 @@ for the assessment, we just didn't have time to fix the problem before the
 tournament).
 
 Match | Upper team                  | Lower team                  | Winner
-------------------------------------|-----------------------------|-------
+------|-----------------------------|-----------------------------|-------
 1.01  | `No_0`                      |  `Pepin`                    | Upper
 1.02  | `UrBrother_in_Law`          |  `placeholder_text`         | Upper
 1.03  | `hxd`                       |  `Heuristic`                | Upper
@@ -110,12 +110,12 @@ Match | Upper team                  | Lower team                  | Winner
 1.63  | `NeverMindSomeLosers`       |  `rock_paper_scissors`      | Upper
 1.64  | `alienware`                 |  `wambusters`               | Upper
 
-#### Round 2
+### Round 2
 
 64 first-round winners proceeded to the second round.
 
 Match | Upper team                  | Lower team                  | Winner
-------------------------------------|-----------------------------|-------
+------|-----------------------------|-----------------------------|-------
 2.01  | `No_0`                      | `UrBrother_in_Law`          | Lower
 2.02  | `hxd`                       | `dwayne_johnson`            | Lower
 2.03  | `LUCKY_LALAS`               | `Future_Yoda`               | Lower
