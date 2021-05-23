@@ -1,0 +1,3 @@
+turn 1: upper: THROW symbol r to (4, -4)
+turn 1: lower: THROW symbol p to (-4, 3)
+error: lower: illegal action ('SLIDE', (1, -3), (2, -3))

@@ -1,0 +1,2 @@
+turn 1: upper: THROW symbol r to (4, -4)
+turn 1: lower: THROW symbol r to (-4, 0)
