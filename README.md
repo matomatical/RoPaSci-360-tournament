@@ -173,10 +173,53 @@ Match | Upper team                  | Lower team                  | Winner
 3.15  | `HAL_9000`                  | `TBD`                       | Upper
 3.16  | `StockFish_Players`         | `NeverMindSomeLosers`       | Lower
 
+
 ### Round 4
 
 16 third-round winners advanced to the fourth round.
 
-Eight winners from this round will proceed to the quarter-final.
-Stay tuned!
+Match | Upper team                  | Lower team                  | Winner
+------|-----------------------------|-----------------------------|-------
+4.01  | `No_0`                      | `Future_Yoda`               | Lower
+4.02  | `nitromelon`                | `eye_robot`                 | Lower
+4.03  | `AlphaRPS`                  | `ElectricSheep`             | Upper
+4.04  | `Beans`                     | `icu996`                    | Upper
+4.05  | `Ti_Ming`                   | `googleme`                  | Lower
+4.06  | `FiveYang`                  | `wheatley`                  | Upper
+4.07  | `A_Team`                    | `ChumBucket`                | Upper
+4.08  | `HAL_9000`                  | `NeverMindSomeLosers`       | Upper
 
+
+### Round 5: Quarter-final
+
+Eight winners from the fourth round advanced to the quarter final. The
+results of this round will be released on Wednesday morning.
+
+Match | Upper team                  | Lower team                  | Winner
+------|-----------------------------|-----------------------------|-------
+5.01  ! `Future_Yoda`               | `eye_robot`                 | 
+5.02  ! `AlphaRPS`                  | `Beans`                     | 
+5.03  ! `googleme`                  | `FiveYang`                  | 
+5.04  ! `A_Team`                    | `HAL_9000`                  | 
+
+The four winners will advance to the semi-final.
+
+### Round 6: Semi-final
+
+Only four teams remain. Which two will advance to the final round? The
+results of this round will be revealed on Thursday morning.
+
+Match | Upper team                  | Lower team                  | Winner
+------|-----------------------------|-----------------------------|-------
+6.01  !                             |                             | 
+6.02  !                             |                             | 
+
+### Round 7: Final match
+
+The final match will be revealed at the Thursday lecture.
+
+Match | Upper team                  | Lower team                  | Winner
+------|-----------------------------|-----------------------------|-------
+7.01  !                             |                             | 
+
+Who will be crowned the RoPaSci 2077 Champion?
