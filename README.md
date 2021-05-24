@@ -149,3 +149,34 @@ Match | Upper team                  | Lower team                  | Winner
 2.31  | `Tronity`                   | `StockFish_Players`         | Lower
 2.32  | `NeverMindSomeLosers`       | `alienware`                 | Upper
 
+### Round 3
+
+32 second-round winners advanced to the third round.
+The tournament is heating up!
+
+Match | Upper team                  | Lower team                  | Winner
+------|-----------------------------|-----------------------------|-------
+3.01  | `No_0`                      | `dwayne_johnson`            | Upper
+3.02  | `Future_Yoda`               | `ass_to_grass`              | Upper
+3.03  | `nitromelon`                | `m`                         | Upper
+3.04  | `ApexPredator`              | `eye_robot`                 | Lower
+3.05  | `AlphaRPS`                  | `Uuuuh`                     | Upper
+3.06  | `PotatoSalad`               | `ElectricSheep`             | Lower
+3.07  | `admin`                     | `Beans`                     | Lower
+3.08  | `Just_a_couple_of_T800s`    | `icu996`                    | Lower
+3.09  | `Hornet`                    | `Ti_Ming`                   | Lower
+3.10  | `googleme`                  | `cornChips`                 | Upper
+3.11  | `FiveYang`                  | `Genius`                    | Upper
+3.12  | `wheatley`                  | `WandaVision`               | Upper
+3.13  | `Noobs`                     | `A_Team`                    | Lower
+3.14  | `ChumBucket`                | `Group233`                  | Upper
+3.15  | `HAL_9000`                  | `TBD`                       | Upper
+3.16  | `StockFish_Players`         | `NeverMindSomeLosers`       | Lower
+
+### Round 4
+
+16 third-round winners advanced to the fourth round.
+
+Eight winners from this round will proceed to the quarter-final.
+Stay tuned!
+
