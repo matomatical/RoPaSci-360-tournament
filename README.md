@@ -222,4 +222,4 @@ Match | Upper team                  | Lower team                  | Winner
 ------|-----------------------------|-----------------------------|-------
 7.01  |                             |                             | 
 
-Who will be crowned the RoPaSci 2077 Champion?
+Who will be crowned the RoPaSci 360 Champion?
