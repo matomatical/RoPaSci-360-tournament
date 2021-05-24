@@ -197,10 +197,10 @@ results of this round will be released on Wednesday morning.
 
 Match | Upper team                  | Lower team                  | Winner
 ------|-----------------------------|-----------------------------|-------
-5.01  ! `Future_Yoda`               | `eye_robot`                 | 
-5.02  ! `AlphaRPS`                  | `Beans`                     | 
-5.03  ! `googleme`                  | `FiveYang`                  | 
-5.04  ! `A_Team`                    | `HAL_9000`                  | 
+5.01  | `Future_Yoda`               | `eye_robot`                 | 
+5.02  | `AlphaRPS`                  | `Beans`                     | 
+5.03  | `googleme`                  | `FiveYang`                  | 
+5.04  | `A_Team`                    | `HAL_9000`                  | 
 
 The four winners will advance to the semi-final.
 
@@ -211,8 +211,8 @@ results of this round will be revealed on Thursday morning.
 
 Match | Upper team                  | Lower team                  | Winner
 ------|-----------------------------|-----------------------------|-------
-6.01  !                             |                             | 
-6.02  !                             |                             | 
+6.01  |                             |                             | 
+6.02  |                             |                             | 
 
 ### Round 7: Final match
 
@@ -220,6 +220,6 @@ The final match will be revealed at the Thursday lecture.
 
 Match | Upper team                  | Lower team                  | Winner
 ------|-----------------------------|-----------------------------|-------
-7.01  !                             |                             | 
+7.01  |                             |                             | 
 
 Who will be crowned the RoPaSci 2077 Champion?
