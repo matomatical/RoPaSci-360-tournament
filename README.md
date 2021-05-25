@@ -192,27 +192,26 @@ Match | Upper team                  | Lower team                  | Winner
 
 ### Round 5: Quarter-final
 
-Eight winners from the fourth round advanced to the quarter final. The
-results of this round will be released on Wednesday morning.
+Eight winners from the fourth round advanced to the quarter final.
 
 Match | Upper team                  | Lower team                  | Winner
 ------|-----------------------------|-----------------------------|-------
-5.01  | `Future_Yoda`               | `eye_robot`                 | 
-5.02  | `AlphaRPS`                  | `Beans`                     | 
-5.03  | `googleme`                  | `FiveYang`                  | 
-5.04  | `A_Team`                    | `HAL_9000`                  | 
+5.01  | `Future_Yoda`               | `eye_robot`                 | Lower
+5.02  | `AlphaRPS`                  | `Beans`                     | Upper
+5.03  | `googleme`                  | `FiveYang`                  | Lower
+5.04  | `A_Team`                    | `HAL_9000`                  | Upper
 
-The four winners will advance to the semi-final.
 
 ### Round 6: Semi-final
 
-Only four teams remain. Which two will advance to the final round? The
-results of this round will be revealed on Thursday morning.
+The winners from the quarter-final advance to the semi-final. Only four
+teams remain. Which two will advance to the final round?
+The results of the semi-final round will be revealed on Thursday morning.
 
 Match | Upper team                  | Lower team                  | Winner
 ------|-----------------------------|-----------------------------|-------
-6.01  |                             |                             | 
-6.02  |                             |                             | 
+6.01  | `eye_robot`                 | `AlphaRPS`                  | 
+6.02  | `FiveYang`                  | `A_Team`                    | 
 
 ### Round 7: Final match
 
@@ -222,4 +221,4 @@ Match | Upper team                  | Lower team                  | Winner
 ------|-----------------------------|-----------------------------|-------
 7.01  |                             |                             | 
 
-Who will be crowned the RoPaSci 360 Champion?
+Who will be crowned the *RoPaSci 360* ***champion***?
