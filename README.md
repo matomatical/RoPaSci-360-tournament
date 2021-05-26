@@ -223,15 +223,16 @@ The results of the semi-final round will be revealed on Thursday morning.
 
 Match | Upper team                  | Lower team                  | Winner
 ------|-----------------------------|-----------------------------|-------
-6.01  | `eye_robot`                 | `AlphaRPS`                  | 
-6.02  | `FiveYang`                  | `A_Team`                    | 
+6.01  | `eye_robot`                 | `AlphaRPS`                  | Lower
+6.02  | `FiveYang`                  | `A_Team`                    | Upper
 
 ### Round 7: Final match
 
+Cogratulations `AlphaRPS` and `FiveYang` for making it to the final round.
 The final match will be revealed at the Thursday lecture.
 
 Match | Upper team                  | Lower team                  | Winner
 ------|-----------------------------|-----------------------------|-------
-7.01  |                             |                             | 
+7.01  | `AlphaRPS`                  | `FiveYang`                  | ?????
 
 Who will be crowned the *RoPaSci 360* ***champion***?
