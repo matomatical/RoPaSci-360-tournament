@@ -35,6 +35,19 @@ sample games for new logs (without changing the result). The game logs don't
 always record if the game ended due to a runtime error or timeout. If the
 log ends abruptly, this is probably the cause.
 
+#### Replay program
+
+Experimental: A python script to replay a game log is included.
+It is intended for displaying the tournament results in the lecture.
+It only works if the log is formatted perfectly (e.g. some issues with
+custom types cause log parsing errors; you can try to 'clean' the log or
+improve the parsing to display more logs if it's a problem for you).
+It and requires the third-party Python library `console`.
+
+```
+usage: python -m replay <path to logfile>`
+```
+
 ### Round 1
 
 128 teams qualified for the tournament (a small number of additional teams
