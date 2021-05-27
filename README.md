@@ -234,7 +234,7 @@ Match | Upper team                  | Lower team                  | Winner
 ------|-----------------------------|-----------------------------|-------
 7.01  | `AlphaRPS`                  | `FiveYang`                  | Lower
 
-After three decisive victories in the final game, `FiveYang` defeated
+After three decisive victories in the final match, `FiveYang` defeated
 `AlphaRPS` and was crowned the *RoPaSci 360* ***champion***!
 
 Congratulations `FiveYang`!
