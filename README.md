@@ -229,10 +229,13 @@ Match | Upper team                  | Lower team                  | Winner
 ### Round 7: Final match
 
 Cogratulations `AlphaRPS` and `FiveYang` for making it to the final round.
-The final match will be revealed at the Thursday lecture.
 
 Match | Upper team                  | Lower team                  | Winner
 ------|-----------------------------|-----------------------------|-------
-7.01  | `AlphaRPS`                  | `FiveYang`                  | ?????
+7.01  | `AlphaRPS`                  | `FiveYang`                  | Lower
 
-Who will be crowned the *RoPaSci 360* ***champion***?
+After three decisive victories in the final game, `FiveYang` defeated
+`AlphaRPS` and was crowned the *RoPaSci 360* ***champion***!
+
+Congratulations `FiveYang`!
+
