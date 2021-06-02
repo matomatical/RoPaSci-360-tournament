@@ -154,7 +154,7 @@ Match | Upper team                  | Lower team                  | Winner
 2.23  | `ROCK_PAPER_SCISSORS`       | `wheatley`                  | Lower
 2.24  | `T_30024`                   | `WandaVision`               | Lower
 2.25  | `teamMS`                    | `Noobs`                     | Lower
-2.26  | `A_Team`                    | `_pythonbois`               | Upper
+2.26  | `A_Team`                    | `Double_sky`                | Upper
 2.27  | `Amateurs`                  | `ChumBucket`                | Lower
 2.28  | `Anonymous`                 | `Group233`                  | Lower
 2.29  | `goToHornyJailDoNotPassGoDoNotCollect200` | `HAL_9000`    | Lower
